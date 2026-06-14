@@ -1,0 +1,7 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+el servidor lee los valores enviados en el JSON y genera una respuesta utilizando la información recibida.
